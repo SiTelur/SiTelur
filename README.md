@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student of Jember State Polytechnic<br>🌱 I’m currently learning Flutter Apps Development
+🔭 I’m currently a student of Jember State Polytechnic<br>🌱 I’m currently learning Mobile Apps Development
 
 
 ## 🌐 Socials:
